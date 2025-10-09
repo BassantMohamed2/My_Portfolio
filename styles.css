@@ -169,13 +169,7 @@ nav a:hover {
   margin-bottom: 1.5rem;
   border: 5px solid var(--primary);
   box-shadow: var(--shadow);
-  background: linear-gradient(45deg, var(--primary), var(--accent));
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  font-size: 3rem;
-  font-weight: bold;
+  object-fit: cover;
   transition: transform 0.3s;
 }
 
